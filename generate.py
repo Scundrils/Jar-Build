@@ -2,7 +2,7 @@ import json, random, time, socket, platform
 
 timestr = time.strftime("%Y-%m-%d - %H:%M:%S UTC")
 
-nameid = "Pheelkat"
+nameid = "Scundrils"
 
 repoid = "Jar-Build"
 
